@@ -1,4 +1,6 @@
 ## Hi there I'm Rakib Islam
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D5616AQFfKV6X3OEcMw/profile-displaybackgroundimage-shrink_200_800/B56ZmWhf4jI4AY-/0/1759166988726?e=1761782400&v=beta&t=x-kYAlX8XMufwOg3JnysXrX3jgj5UKV3WIt1-ZAMJ1I)
+
 
 # 💫 About Me:
 I am Rakib Islam, a passionate problem solver with experience in C++ (Codeforces 2★) and strong knowledge of Data Structures & Algorithms. Currently, I am learning Python with Django to build reliable backend systems. I believe in continuous learning and always strive to keep myself updated with modern technologies.
